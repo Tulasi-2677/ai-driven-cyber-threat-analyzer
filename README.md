@@ -10,6 +10,6 @@ A professional learning log documenting my journey through enterprise security o
   * Mastered the CIA Triad (Confidentiality, Integrity, Availability).
   * Studied the core daily responsibilities of a Security Operations Center (SOC) Analyst.
 * **Manage Security Risks**
-* Security Domains, Security Frameworks, and Controls.
+  * Security Domains, Security Frameworks, and Controls.
 
   
