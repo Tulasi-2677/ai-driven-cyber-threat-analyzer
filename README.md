@@ -9,7 +9,7 @@ A professional learning log documenting my journey through enterprise security o
   * ** Module 1: introduction to cybersecurity**.
   * Mastered the CIA Triad (Confidentiality, Integrity, Availability).
   * Studied the core daily responsibilities of a Security Operations Center (SOC) Analyst.
-* **Connect and Protect (Networks)**
-  * Completed Module 1: Introduction to Networks.
+* **Manage Security Risks**
+* Security Domains, Security Frameworks, and Controls.
 
   
