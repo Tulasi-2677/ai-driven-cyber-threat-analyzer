@@ -6,10 +6,13 @@ A professional learning log documenting my journey through enterprise security o
 ## 📅 Progress Log
 * **Foundations of Cybersecurity** — ✅ Progress
   
-  * ** introduction to cybersecurity**.
+  * introduction to cybersecurity*.
   * Mastered the CIA Triad (Confidentiality, Integrity, Availability).
   * Studied the core daily responsibilities of a Security Operations Center (SOC) Analyst.
 * **Manage Security Risks**
   * Security Domains, Security Frameworks, and Controls.
+* **Networks and Network Security**
+  * Network architectecture*
+  
 
   
