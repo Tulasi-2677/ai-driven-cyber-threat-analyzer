@@ -13,6 +13,8 @@ A professional learning log documenting my journey through enterprise security o
   * Security Domains, Security Frameworks, and Controls.
 * **Networks and Network Security**
   * Network architectecture*
+  * TCP/IP Model*
+  * OSI Model*
   
 
   
